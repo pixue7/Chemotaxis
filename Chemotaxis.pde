@@ -6,7 +6,7 @@ class Bacteria{
   int myColor;
 
   Bacteria(){
-  myX = (int)(Math.random()*400);
+  myX = 0;
   myY = (int)(Math.random()*400);
   mySpeed = mySize/30.0;
   mySize = (int)(Math.random()*50 + 20);
