@@ -27,7 +27,7 @@ class Bacteria{
 }
 
 
-Bacteria[] die = new Bacteria[3];
+Bacteria[] die = new Bacteria[4];
 
 void setup(){
   size(400, 400);
