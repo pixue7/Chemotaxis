@@ -1,4 +1,4 @@
-class Bacteria{
+  class Bacteria{
   int myX;
   float myY;
   float mySpeed;
